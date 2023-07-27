@@ -1,0 +1,24 @@
+.feed{
+    flex: 0.4;  /*40% of entire width*/
+    border-right: 1px solid var(--twitter-background);
+    min-width: fit-content;
+    overflow-y: scroll;
+}
+
+.feed::-webkit-scrollbar{       /*scroll bar shouldn't be seen (ui) but functionality should remain*/
+    display: none;
+}
+
+.feed{
+    -ms-overflow-style: none;      /*that was for safari and this is for all others*/
+    scrollbar-width: none;
+}
+
+.feed_header{
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 100;
+    border: 1px solid var(--twitter-background);
+    padding: 15px 20px;
+}
