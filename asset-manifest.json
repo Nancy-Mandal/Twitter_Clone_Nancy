@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Twitter_Clone_Nancy/static/css/main.aeb72cf7.css",
+    "main.js": "/Twitter_Clone_Nancy/static/js/main.877c47ec.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Twitter_Clone_Nancy/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Twitter_Clone_Nancy/index.html",
+    "main.aeb72cf7.css.map": "/Twitter_Clone_Nancy/static/css/main.aeb72cf7.css.map",
+    "main.877c47ec.js.map": "/Twitter_Clone_Nancy/static/js/main.877c47ec.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Twitter_Clone_Nancy/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeb72cf7.css",
+    "static/js/main.877c47ec.js"
+  ]
+}
